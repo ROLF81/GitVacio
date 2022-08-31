@@ -1,2 +1,2 @@
 texto = input()
-print(texto)
+print("hello" +" "+texto)
