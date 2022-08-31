@@ -1,2 +1,3 @@
 texto = input()
-print("hello" +" "+texto)
+name = input()
+print("hello" +" "+texto+" "+name)
